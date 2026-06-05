@@ -1,0 +1,6 @@
+baseURL = "http://localhost/"
+languageCode = "en-ca"
+title = "Andy Lin"
+
+[markup.goldmark.renderer]
+unsafe = true

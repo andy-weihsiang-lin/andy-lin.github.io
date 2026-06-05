@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on Andy Lin</title>
+    <link>http://localhost:8888/logs/</link>
+    <description>Recent content in Logs on Andy Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 02 Jun 2026 22:30:13 -0400</lastBuildDate>
+    <atom:link href="http://localhost:8888/logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GTD: Develop the attack outline</title>
+      <link>http://localhost:8888/logs/2026-06-02/</link>
+      <pubDate>Tue, 02 Jun 2026 22:30:13 -0400</pubDate>
+      <guid>http://localhost:8888/logs/2026-06-02/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website: Add Pages of Logs, Contact Me, and Projects</title>
+      <link>http://localhost:8888/logs/2026-06-01/</link>
+      <pubDate>Mon, 01 Jun 2026 01:27:04 -0400</pubDate>
+      <guid>http://localhost:8888/logs/2026-06-01/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Website: An experimental self-host website</title>
+      <link>http://localhost:8888/logs/2026-05-29/</link>
+      <pubDate>Fri, 29 May 2026 21:42:21 -0400</pubDate>
+      <guid>http://localhost:8888/logs/2026-05-29/</guid>
+      <description>We installed our first NAS in our network on May 25. Since its installation, despite it being capable of humble 2 TB-storage, I cannot stop thinking of what we can do with the storage on server.&#xA;The first thing came to my mind is to run a self-host website.&#xA;I have always wanted to build a website without permissions from any third-party providers or some sort of subscription to make my MPV work.</description>
+    </item>
+    <item>
+      <title>NAS: Installation of NAS at home from an old laptop</title>
+      <link>http://localhost:8888/logs/2026-05-25/</link>
+      <pubDate>Mon, 25 May 2026 22:30:21 -0400</pubDate>
+      <guid>http://localhost:8888/logs/2026-05-25/</guid>
+      <description>My wife and I have some old laptops that had been obsolete for more than 6 years. To keep them away from dust, we placed them deep in the storage cabinet, which made taking up space their only functionality.&#xA;We have recently identified our strong need for shared storage within our network for we have constantly looking for possibilities of file sharing and data management from time to time.&#xA;I had known that NAS is probably what can be of huge help.</description>
+    </item>
+  </channel>
+</rss>

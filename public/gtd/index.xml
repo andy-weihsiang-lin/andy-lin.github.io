@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gtds on Andy Lin</title>
+    <link>http://localhost:43631/gtd/</link>
+    <description>Recent content in Gtds on Andy Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Mon, 01 Jun 2026 21:01:40 -0400</lastBuildDate>
+    <atom:link href="http://localhost:43631/gtd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checklist: Getting Things Done</title>
+      <link>http://localhost:43631/gtd/gtd/</link>
+      <pubDate>Mon, 01 Jun 2026 21:01:40 -0400</pubDate>
+      <guid>http://localhost:43631/gtd/gtd/</guid>
+      <description>This page serves as a checklist for each stage of Getting Things Done in my case.&#xA;Getting Started Set Aside the Time Create a block of time to initialize the preparation of workstation.&#xA;Ideal time frame:&#xA;Two whole days, back to back. Weekend or holiday for most professional. Typical workday if interrumptions can be kept to minimum. Set up the Space Main:&#xA;Establish an office space. Install a desk. If you work from a home office, establish a satellite system.</description>
+    </item>
+  </channel>
+</rss>

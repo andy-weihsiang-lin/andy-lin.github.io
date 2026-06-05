@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects-Dones on Andy Lin</title>
+    <link>http://localhost:8888/projects-done/</link>
+    <description>Recent content in Projects-Dones on Andy Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Mon, 01 Jun 2026 23:24:19 -0400</lastBuildDate>
+    <atom:link href="http://localhost:8888/projects-done/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birthday List</title>
+      <link>http://localhost:8888/projects-done/birthday-list/</link>
+      <pubDate>Mon, 01 Jun 2026 23:24:19 -0400</pubDate>
+      <guid>http://localhost:8888/projects-done/birthday-list/</guid>
+      <description>The following is a birthday lists of people I know.&#xA;Moody&amp;rsquo;s GGY Family &amp;amp; Friends in Taiwan </description>
+    </item>
+    <item>
+      <title>Getting Things Done - Collection Point</title>
+      <link>http://localhost:8888/projects-done/gtd-collect/</link>
+      <pubDate>Mon, 01 Jun 2026 21:57:54 -0400</pubDate>
+      <guid>http://localhost:8888/projects-done/gtd-collect/</guid>
+      <description>This is a comprehensive checklist of where to find open loops.&#xA;Physical Gathering Desktop Desk Drawers Counter tops File cabinets Bookshelves Inside the cabinets Floors, walls, shelves Equipment, Furniture, Fixtures Anywhere else Professional Projects started, not completed Projects that need to be started Commitments/promises to others Boss/partners Colleagues Subordinates Other people in organization “Outside” people Customers Other organizations Professionals Communications to make/get Internal/External - Initiate or respond to: Phone calls Voice-mail E-mail Pages Faxes Letters Memos Other writing to finish/submit Reports Evaluations/reviews Proposals Articles Promotional materials Manuals/instructions Rewrites and edits Meetings that need to be set/requested Who needs to know about what decisions?</description>
+    </item>
+    <item>
+      <title>Getting Things Done</title>
+      <link>http://localhost:8888/projects-done/gtd/</link>
+      <pubDate>Mon, 01 Jun 2026 21:01:40 -0400</pubDate>
+      <guid>http://localhost:8888/projects-done/gtd/</guid>
+      <description>This page serves as a checklist for each stage of Getting Things Done in my case.&#xA;Getting Started Set Aside the Time Create a block of time to initialize the preparation of workstation.&#xA;Ideal time frame:&#xA;Two whole days, back to back. Weekend or holiday for most professional. Typical workday if interrumptions can be kept to minimum. Set up the Space Main:&#xA;Establish an office space. Install a desk. If you work from a home office, establish a satellite system.</description>
+    </item>
+  </channel>
+</rss>
