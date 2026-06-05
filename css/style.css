@@ -1,0 +1,30 @@
+body {
+    max-width: 85%;
+    margin: auto;
+    padding: 1rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+}
+
+.image-profile-photo {
+    max-width: 300px;
+    height: auto;
+}
+
+.header, .header-space,
+.footer, .footer-space {
+  height: 200px;
+}
+.header {
+  position: fixed;
+  top: 0;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+}
